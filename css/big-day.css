@@ -154,7 +154,7 @@ CSS Flex (Prefixed)
   margin: 3em 0 0;
   text-align: center;
   color: #E86C6C;
-  font-family: 'Fira Sans', 'jf-jinxuan-medium', 'cwTeXHei', sans-serif;
+  font-family: 'Fira Sans', jf-jinxuan, 'cwTeXHei', sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: .9em;
@@ -193,7 +193,7 @@ a:active {
   border-width: 0;
   text-transform: uppercase;
   letter-spacing: 3px;
-  font-family: 'Fira Sans', 'jf-jinxuan-medium', 'cwTeXHei', sans-serif;
+  font-family: 'Fira Sans', jf-jinxuan, 'cwTeXHei', sans-serif;
   padding: 1em 1.5em;
   border-radius: 0 !important;
 }
@@ -319,7 +319,7 @@ body {
   height: 100% !important;
   font-size: 18px;
   line-height: 1.6;
-  font-family: 'Fira Sans', 'jf-jinxuan-medium', 'cwTeXHei', sans-serif;
+  font-family: 'Fira Sans', jf-jinxuan, 'cwTeXHei', sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -331,7 +331,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Fira Sans', 'jf-jinxuan-medium', 'cwTeXHei', sans-serif;
+  font-family: 'Fira Sans', jf-jinxuan, 'cwTeXHei', sans-serif;
   font-weight: 700;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -553,7 +553,7 @@ body > footer .heart svg use {
 }
 body > footer h2 {
   font-size: 2em;
-  font-family: 'jf-albatron-w6', 'Dancing Script', cursive;
+  font-family: jf-albatron-w6, 'Dancing Script', cursive;
   font-weight: 400;
   margin-top: .5em;
   margin-bottom: .25em;
@@ -766,7 +766,7 @@ section.section-hero .announcement-wrapper .announcement h2 {
   padding: 0;
   font-size: 2em;
   font-size: 6.75vmin;
-  font-family: 'jf-albatron-w6', 'Dancing Script', cursive;
+  font-family: jf-albatron-w6, 'Dancing Script', cursive;
   font-weight: 400;
   text-transform: none;
   letter-spacing: 0;
@@ -888,7 +888,7 @@ section.section-couple .bride-and-groom:before {
   position: absolute;
   content: '&';
   display: block;
-  font-family: 'jf-albatron-w6', 'Dancing Script', cursive;
+  font-family: jf-albatron-w6, 'Dancing Script', cursive;
   margin-top: 17.6%;
   top: 0;
   left: 50%;
@@ -1072,7 +1072,7 @@ section.section-story ul.timeline > li .meta .timeline-thumbnail {
 section.section-story ul.timeline > li .meta .date {
   font-size: 2em;
   font-size: 3vw;
-  font-family: 'jf-albatron-w6', 'Dancing Script', cursive;
+  font-family: jf-albatron-w6, 'Dancing Script', cursive;
   position: absolute;
   top: 50%;
   right: 2em;
@@ -1118,7 +1118,7 @@ section.section-events ul.event-list > li .event-details {
   overflow: hidden;
 }
 section.section-events ul.event-list > li .event-details h3 {
-  font-family: 'jf-albatron-w6', 'Dancing Script', cursive;
+  font-family: jf-albatron-w6, 'Dancing Script', cursive;
   font-size: 1.67em;
   margin: 0;
 }
@@ -1283,7 +1283,7 @@ section.section-rsvp #message p {
   margin: 0;
 }
 section.section-people h3 {
-  font-family: 'jf-albatron-w6', 'Dancing Script', cursive;
+  font-family: jf-albatron-w6, 'Dancing Script', cursive;
   text-align: center;
   font-size: 1.67em;
   margin: 1.5em 0 .75em;
@@ -1580,7 +1580,7 @@ section.section-gallery header ul.gallery-cats {
   margin: 0;
   padding: 0;
   list-style: none;
-  font-family: 'Fira Sans', 'jf-jinxuan-medium', 'cwTeXHei', sans-serif;
+  font-family: 'Fira Sans', jf-jinxuan, 'cwTeXHei', sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
   font-size: .7em;
