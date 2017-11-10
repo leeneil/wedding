@@ -1,0 +1,28 @@
+{
+	"files": {
+		"css/big-day.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "big-day.css",
+					"options": {
+						"compress": false,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourceMap": true
+					}
+				}
+			],
+			"sources": [
+				"basic.less",
+				"css-flex.less",
+				"css-trans-ani.less",
+				"owl-overwrite.less",
+				"parallax.less",
+				"responsive.less"
+			]
+		}
+	}
+}
